@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "589816531932",
+    "firebase_url": "https://devfest-6c27b.firebaseio.com",
+    "project_id": "devfest-6c27b",
+    "storage_bucket": "devfest-6c27b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589816531932:android:3c287b5444985786ab1d19",
+        "android_client_info": {
+          "package_name": "com.ibhavikmakwana.devfest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589816531932-3rb2p36m4r3j2ucos8eslf98g2ggn8ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMQeTI2EnWHp6gvbNVw_kNiboZOBC_RnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589816531932-3rb2p36m4r3j2ucos8eslf98g2ggn8ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
